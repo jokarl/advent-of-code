@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D2CubeConundrum", "D2CubeCo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D3GearRatios", "D3GearRatios\D3GearRatios.csproj", "{6DBCC8E2-4254-41C3-AF2F-220FB3A84D36}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D4Scratchcards", "D4Scratchcards\D4Scratchcards.csproj", "{DC907C11-26D8-4511-9D12-F81765C75187}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{6DBCC8E2-4254-41C3-AF2F-220FB3A84D36}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6DBCC8E2-4254-41C3-AF2F-220FB3A84D36}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6DBCC8E2-4254-41C3-AF2F-220FB3A84D36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC907C11-26D8-4511-9D12-F81765C75187}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC907C11-26D8-4511-9D12-F81765C75187}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC907C11-26D8-4511-9D12-F81765C75187}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC907C11-26D8-4511-9D12-F81765C75187}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
