@@ -6,6 +6,7 @@ namespace Tests;
 public class CubeConundrumTests
 {
     private const int ExpectedResult = 2720;
+    private const int ExpectedResultPart2 = 71535;
 
     [Fact]
     public void Solve()
@@ -13,6 +14,14 @@ public class CubeConundrumTests
         var input = File.ReadLines("Data/CubeConundrum.txt").ToArray();
         var result = CubeConundrum.Solve(input);
         Assert.Equal(ExpectedResult, result);
+    }
+
+    [Fact]
+    public void Solve_part2()
+    {
+        var input = File.ReadLines("Data/CubeConundrum.txt").ToArray();
+        var result = CubeConundrum.Solve_part2(input);
+        Assert.Equal(ExpectedResultPart2, result);
     }
 
     [Fact]
