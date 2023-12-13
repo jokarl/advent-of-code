@@ -18,6 +18,22 @@ public class GearRatiosTests
     }
 
     [Fact]
+    public void Solve_part2()
+    {
+        var input = File.ReadLines("Data/GearRatios.txt").ToArray();
+        var result = GearRatios.Solve(input, 2);
+        Assert.Equal(ExpectedResult, result);
+    }
+    
+    [Fact]
+    public void Solve_key_part2()
+    {
+        var input = File.ReadLines("Data/GearRatios.Key.txt").ToArray();
+        var result = GearRatios.Solve(input, 2);
+        Assert.Equal(467835, result);
+    }
+
+    [Fact]
     public void Solve_key()
     {
         var input = File.ReadLines("Data/GearRatios.Key.txt").ToArray();

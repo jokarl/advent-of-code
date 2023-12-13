@@ -11,6 +11,9 @@
     &lt;TestId&gt;xUnit::388337DF-169C-4CB1-829B-619EFEB67A7E::net8.0::Tests.TrebuchetTests.Regex_test&lt;/TestId&gt;
     &lt;TestId&gt;xUnit::388337DF-169C-4CB1-829B-619EFEB67A7E::net8.0::Tests.CubeConundrumTests.Solve&lt;/TestId&gt;
     &lt;TestId&gt;xUnit::388337DF-169C-4CB1-829B-619EFEB67A7E::net8.0::Tests.CubeConundrumTests.Solve_part2&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::388337DF-169C-4CB1-829B-619EFEB67A7E::net8.0::Tests.GearRatiosTests.Solve_part2&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::388337DF-169C-4CB1-829B-619EFEB67A7E::net8.0::Tests.GearRatiosTests.Solve_key_part2&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::388337DF-169C-4CB1-829B-619EFEB67A7E::net8.0::Tests.GearRatiosTests.Solve&lt;/TestId&gt;
   &lt;/TestAncestor&gt;
 &lt;/SessionState&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=364f0ef5_002D754d_002D4c53_002Dbcfc_002D9f03141d0a12/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Main_trebuchet" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
